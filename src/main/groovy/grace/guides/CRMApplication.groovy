@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
-class GraceGuideApplication {
+class CRMApplication {
 
 	static void main(String[] args) {
-		SpringApplication.run(GraceGuideApplication, args)
+		SpringApplication.run(CRMApplication, args)
 	}
 
 }
